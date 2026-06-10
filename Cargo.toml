@@ -1,4 +1,5 @@
 [package]
+description = "agent-fermata"
 repository = "https://github.com/SuperInstance/agent-fermata"
 name = "agent-fermata"
 version = "0.1.0"
